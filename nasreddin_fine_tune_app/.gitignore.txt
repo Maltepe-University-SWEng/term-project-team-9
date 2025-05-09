@@ -1,0 +1,10 @@
+# Sanal ortam ve önbellek
+venv/
+__pycache__/
+*.pyc
+
+# Büyük dosyalar
+*.bin
+*.dll
+*.lib
+*.zip
