@@ -1,3 +1,4 @@
+FULL PROJECT FILES : https://github.com/alpsalcioglu/mau IN THIS REPO
 # FıkraBot - AI-Powered Turkish Joke Generator
 
 FıkraBot is an innovative AI-powered application that generates Turkish jokes using a custom-trained language model. The project combines a Python backend for AI processing with a modern Node.js frontend for user interaction.
